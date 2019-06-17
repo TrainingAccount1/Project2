@@ -11,7 +11,7 @@ public class Thread2 extends Thread {
 	
 	public void run()
 	{
-		a.print(8);
+		a.print(6);
 	}
 	
 	
